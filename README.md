@@ -14,4 +14,4 @@ Used Excel to classify data and draw business conclusions
 - Business problem solving
 
 ## Certificate
-[View Certificate](Data_Analytics_certificate -Deloitte.pdf)
+[View Certificate](Data_Analytics_certificate%20-Deloitte.pdf)
